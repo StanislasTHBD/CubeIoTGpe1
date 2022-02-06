@@ -56,6 +56,11 @@ Modifier la configuration du serveur SSH pour permettre la connexion de l’util
 - Redémarrez le service SSH
 
 		sudo service ssh restart
+		
+- Connexion ssh => root@adresse_ip
+
+	    ssh root@192.168.43.60
+ 	    Mdp : root
 
 # Étape 5 : Page de connexion à phpMyAdmin
 - Taper dans URL:
