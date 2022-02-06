@@ -463,8 +463,8 @@ Pour mettre le flash sur l’ ESP8266 :
 		import gc
 		gc.collect()
 
-		ssid = 'Livebox-5476'
-		password = 'Clemlgy76'
+		ssid = 'reseau_nom'
+		password = 'reseau_mdp'
 
 		station = network.WLAN(network.STA_IF)
 
