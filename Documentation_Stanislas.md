@@ -1,4 +1,4 @@
-# Raspberry Pi Zéro 
+# Partie : Raspberry Pi Zéro 
 
 ![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/Raspberry_Pi_Zero.png)
 
@@ -111,7 +111,7 @@ Modifier la configuration du serveur SSH pour permettre la connexion de l’util
 		http://192.168.43.60:5000/api/v1/capteur/supprimer/${id}
 		-----------------------------------------------------------------
 
-# ESP8266
+# Partie : ESP8266
 
 ![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/ESP8266.png)
 
