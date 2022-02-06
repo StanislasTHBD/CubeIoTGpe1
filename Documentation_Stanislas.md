@@ -117,7 +117,7 @@ Pour mettre le flash sur l’ ESP8266 :
 		print('Connection successful')
 		print(station.ifconfig()) 
 
-Capteur de température & humidité SI7021
+# Capteur de température & humidité SI7021
 
 ![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/SI7021.png)
 
@@ -513,6 +513,8 @@ Capteur de température & humidité SI7021
 		    print('Failed')
 		    print(repr(e))
 
+# Afficheur I2C LCD 16x2
+![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/LCD_I2C.png)
 
 - Library LCD: fichier LIB "lcdi2c.py"
 
