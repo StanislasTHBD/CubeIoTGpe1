@@ -3,7 +3,7 @@
 ![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/Raspberry_Pi_Zero.png)
 
 # Étape 1 : Installation OS
-- Installer os « Raspberry Pi OS Lite » sur carte SD 
+- Installation de l'OS « Raspberry Pi OS Lite » sur la carte microSD 
 
 		Lien : https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf-lite.zip
 		
