@@ -1,6 +1,6 @@
 # Raspberry Pi Zéro 
 
-![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/ESP8266.png)
+![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/Raspberry_Pi_Zero.png)
 
 # Étape 1 : Installation OS
 - Installer os « Raspberry Pi OS Lite » sur carte SD 
