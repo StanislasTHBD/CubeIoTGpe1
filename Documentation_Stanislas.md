@@ -48,6 +48,8 @@ Ajouter un fichier wpa_supplicant.conf =>
 # ESP8266
 # Schéma du câblage : ESP8266
 
+![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/Montage.png)
+
 # Étape 1 : Installation & Configuration ESP8266 
 Pour effacer le flash du ESP8266 :
 
