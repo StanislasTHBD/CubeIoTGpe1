@@ -1,4 +1,7 @@
 # Raspberry Pi Zéro 
+
+![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/ESP8266.png)
+
 # Étape 1 : Installation OS
 - Installer os « Raspberry Pi OS Lite » sur carte SD 
 
@@ -46,6 +49,9 @@ Ajouter un fichier wpa_supplicant.conf =>
 		mdp : root 
 
 # ESP8266
+
+![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/ESP8266.png)
+
 # Schéma du câblage : ESP8266
 
 ![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/Montage.png)
