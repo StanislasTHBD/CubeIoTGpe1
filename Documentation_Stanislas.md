@@ -37,8 +37,27 @@ Ajouter un fichier wpa_supplicant.conf =>
 	sudo apt-get install php php-mysql apache2 mariadb-server
 	mysql_secure_installation
 	sudo apt-get install phpmyadmin
+	
+# Étape 4 : Utilisateur root
+Modifier la configuration du serveur SSH pour permettre la connexion de l’utilisateur root :
 
-# Étape 4 : Page de connexion à phpMyAdmin
+- Ouvrez le fichier de configuration
+
+		sudo nano /etc/ssh/sshd_config
+		
+- Trouvez cette ligne :
+
+		#PermitRootLogin prohibit-password
+		
+- Remplacez la par celle-ci
+
+		PermitRootLogin yes
+
+- Redémarrez le service SSH
+
+		sudo service ssh restart
+
+# Étape 5 : Page de connexion à phpMyAdmin
 - Taper dans URL:
 
 		192.168.43.60/phpmyadmin
