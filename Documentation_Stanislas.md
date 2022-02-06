@@ -5,7 +5,7 @@
 # Étape 1 : Installation OS
 - Installation de l'OS « Raspberry Pi OS Lite » sur la carte microSD 
 
-		Lien download: ![Raspberry Pi OS Lite](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf-lite.zip)
+		Lien download: https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf-lite.zip
 		
 - Configuration du Raspberry Pi 
 Ajouter un fichier "wpa_supplicant.conf"
