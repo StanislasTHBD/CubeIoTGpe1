@@ -1,7 +1,7 @@
 # Raspberry Pi Zéro 
 # Étape 1 : Installation OS
 - Installer os « Raspberry Pi OS Lite » sur carte SD 
-    • ( Lien : https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf-lite.zip ) 
+		Lien : https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf-lite.zip
 - Configuration du Raspberry Pi 
 Ajouter un fichier wpa_supplicant.conf =>
 
