@@ -10,7 +10,7 @@
 - Configuration du Raspberry Pi 
 Ajouter un fichier "wpa_supplicant.conf"
 
-	      ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+		ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
 		update_config=1
 		country=FR
 		network={
