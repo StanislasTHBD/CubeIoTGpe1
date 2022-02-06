@@ -676,6 +676,9 @@ Pour mettre le flash sur l’ ESP8266 :
 - Fichier de test: "lcd.py" permet d'afficher sur l'écran LCD le message "Hello, from MicroPython !"
 - Attention: Ne pas oublier de faire le réglage  du contraste de l'écran qui se trouve à l'arrière !!
 
+![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/LCD_I2C_reglage.jpg)
+
+
 		import machine
 		from machine import I2C, Pin
 		from lcdi2c import LCDI2C
