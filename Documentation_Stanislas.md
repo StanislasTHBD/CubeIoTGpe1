@@ -117,6 +117,10 @@ Pour mettre le flash sur l’ ESP8266 :
 		print('Connection successful')
 		print(station.ifconfig()) 
 
+Capteur de température & humidité SI7021
+
+![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/SI7021.png)
+
 - Library Capteur de température & humidité: fichier LIB "si7021.py"
 
 		'''This module implements a driver for the Si7021 humidity and temperature
@@ -280,11 +284,7 @@ Pour mettre le flash sur l’ ESP8266 :
 		    'Convert a Celcius measurement into a Fahrenheit measurement.'
 		    return celcius * 1.8 + 32
 
-Capteur de température & humidité SI7021
-
-![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/SI7021.png)
-
-- Fichier de test: "sensor1.py" permet de récupérer les mesures du capteur de température & humidité
+- Fichier de test: "sensor1.py" permet de récupérer les mesures du capteur SI7021 de température & humidité
 
 		'Quick example for the i2c driver.'
 
