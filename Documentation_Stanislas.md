@@ -313,7 +313,7 @@ Pour mettre le flash sur l’ ESP8266 :
 		    #print('Temperature:         {value}'.format(value=temp_sensor.temperature))
 
 
-- Library uRequests: fichier LIB "urequests.py"
+- Library uRequests: fichier LIB "urequests.py" permet d'envoyer les requêtes
 
 		import usocket
 
@@ -440,7 +440,7 @@ Pour mettre le flash sur l’ ESP8266 :
 		def delete(url, **kw):
 		    return request("DELETE", url, **kw)
 
-- Fichier de test: "post_api.py" permet la connexion + permet d'envoyer les relevées du capteur via une requêtes à l'api 
+- Fichier de test: "post_api.py" permet la connexion + permet d'envoyer les relevées du capteur via les requêtes à l'api 
 
 		from machine import Pin
 		from time import sleep
