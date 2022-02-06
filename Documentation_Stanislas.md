@@ -71,7 +71,7 @@ Modifier la configuration du serveur SSH pour permettre la connexion de l’util
 
 ![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/ESP8266.png)
 
-# Schéma du câblage : ESP8266
+# Schéma du câblage du montage
 
 ![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/StanislasTHBD-patch-1/Montage.png)
 
