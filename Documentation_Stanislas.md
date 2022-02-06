@@ -76,6 +76,8 @@ Modifier la configuration du serveur SSH pour permettre la connexion de l’util
 - Mettre les fichiers de l'API dans le répertoire: /var/www/
 - Aller dans le fichier "api_executor.py" et remplacer l'ip 127.0.0.1 par celle du Raspberry 192.168.43.60
 
+		Fichier: "api_executor.py" ![alt text](https://github.com/StanislasTHBD/CubeIoTGpe1/blob/ismail-API/API/api_executor.py)
+
 		if __name__ == "__main__":
 		    app.run(host='192.168.43.60', port=5000)
 
