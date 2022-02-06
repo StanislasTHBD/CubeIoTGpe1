@@ -8,7 +8,7 @@
 		Lien : https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf-lite.zip
 		
 - Configuration du Raspberry Pi 
-Ajouter un fichier wpa_supplicant.conf =>
+Ajouter un fichier "wpa_supplicant.conf"
 
 	    • ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
 		update_config=1
@@ -19,7 +19,7 @@ Ajouter un fichier wpa_supplicant.conf =>
 			scan_ssid=1
 			key_mgmt=WPA-PSK
 			}
-- Ajouter un fichier ssh (sans extension) vide
+- Ajouter un fichier "ssh" (sans extension) & vide
 
 # Étape 2 : Branchement & connexion avec le Raspberry Pi
 - Brancher le raspberry et le pinger avec la commande pour trouver l’adresse IP :
